@@ -96,14 +96,14 @@ def load_model(model_name):
         model = models.resnet50(weights=None)
         model.fc = torch.nn.Linear(model.fc.in_features, 2)
         checkpoint = torch.load(
-            r"C:\Users\HP\Projects\Python_for_ML\Comp_Vision\predicting_malaria\resnet_model.pth",
+            r"resnet_model.pth",
             map_location=torch.device('cpu')
         )
     elif model_name == "VGG19":
         model = models.vgg19(weights=None)
         model.classifier[6] = torch.nn.Linear(model.classifier[6].in_features, 2)
         checkpoint = torch.load(
-            r"C:\Users\HP\Projects\Python_for_ML\Comp_Vision\predicting_malaria\vgg19_model.pth",
+            r"vgg19_model.pth",
             map_location=torch.device('cpu')
         )
 
