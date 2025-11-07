@@ -1,4 +1,5 @@
-##🩸 𝗠𝗮𝗹𝗮𝗿𝗶𝗮 𝗖𝗲𝗹𝗹 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘂𝘀𝗶𝗻𝗴 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+<span style="font-size: 1.3em; font-weight: 600;">🩸 𝗠𝗮𝗹𝗮𝗿𝗶𝗮 𝗖𝗲𝗹𝗹 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘂𝘀𝗶𝗻𝗴 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴</span>
+
 An AI-powered computer vision system that classifies microscope images of blood smears as either Parasitized or Uninfected, helping automate early malaria diagnosis.
 
 🧠 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
