@@ -1,5 +1,10 @@
 <span style="font-size: 1.3em; font-weight: 600;">🩸 𝗠𝗮𝗹𝗮𝗿𝗶𝗮 𝗖𝗲𝗹𝗹 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘂𝘀𝗶𝗻𝗴 𝗗𝗲𝗲𝗽 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴</span>
 
+ 🌐 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁
+The model was deployed on 𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁, offering an interactive web interface for uploading and classifying cell images.
+🔗 𝗧𝗿𝘆 𝗶𝘁 𝗹𝗶𝘃𝗲: https://predictingmalaria1.streamlit.app/
+💻 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆: https://github.com/Sadim-Verse/predicting_malaria
+
 An AI-powered computer vision system that classifies microscope images of blood smears as either Parasitized or Uninfected, helping automate early malaria diagnosis.
 
 🧠 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
@@ -31,8 +36,3 @@ To ensure reliability, multiple metrics were used to assess performance:
  • Accuracy: 𝟵𝟳.𝟮𝟴%
  • Precision: 𝟵𝟲.𝟴𝟳%
  • F1-score: 𝟵𝟳.𝟮𝟵%
-
- 🌐 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁
-The model was deployed on 𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁, offering an interactive web interface for uploading and classifying cell images.
-🔗 𝗧𝗿𝘆 𝗶𝘁 𝗹𝗶𝘃𝗲: https://predictingmalaria1.streamlit.app/
-💻 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆: https://github.com/Sadim-Verse/predicting_malaria
